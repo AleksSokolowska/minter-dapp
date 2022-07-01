@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Step in and get your free Wasted Weeds NFT";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Hello friend and welcome in the <a href="https://420stonedfairies.com/"  target="_blank" rel="noopener noreferrer">420 Stoned Fairies</a> charity universe. Before we put the Baked Bugs collection on open sale to donate half of our proceeds to charities, research projects and other non-profits afterwards, we bring you the Wasted Weeds PFP collection for free! Connect your wallet & get your own stoner buddy now  🎉';
+const welcome_p = 'Hello friend and welcome to the <a href="https://420stonedfairies.com/"  target="_blank" rel="noopener noreferrer">420 Stoned Fairies</a> charity universe. Before we put the Baked Bugs collection on open sale to donate half of our proceeds to charities, research projects and other non-profits afterwards, we bring you the Wasted Weeds PFP collection for free! Connect your wallet & get your own stoner buddy now  🎉';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Free Whitelist Minting Open!";
 const h1_public_mint = "Free Public Minting Open!";
