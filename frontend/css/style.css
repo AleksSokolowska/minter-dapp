@@ -7,12 +7,12 @@
 :root {
   --font-primary: "Titan One", sans-serif;
   --font-secondary: "Montserrat", sans-serif;
-  --font-code: "Montserrat", sans-serif;
+  --font-code: "Titan One", sans-serif;
   --bg-color: #f7bae9;
   --bg-color-transparent: #00163f80;
   --font-color: #613881;
   --btn-bg-color: #ffffff;
-  --accent-color: #3671ca;
+  --accent-color: #c536ca;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
