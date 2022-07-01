@@ -5,14 +5,14 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Titan One", sans-serif;
+  --font-primary: "Montserrat", sans-serif;
   --font-secondary: "Titan One", sans-serif;
-  --font-code: "Titan One", sans-serif;
+  --font-code: "Montserrat", sans-serif;
   --bg-color: #f7bae9;
   --bg-color-transparent: #00163f80;
   --font-color: #613881;
   --btn-bg-color: #ffffff;
-  --accent-color: #56e251;
+  --accent-color: #3671ca;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
