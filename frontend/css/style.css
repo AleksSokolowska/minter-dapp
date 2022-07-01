@@ -12,7 +12,7 @@
   --bg-color-transparent: #00163f80;
   --font-color: #613881;
   --btn-bg-color: #ffffff;
-  --accent-color: #fb316e;
+  --accent-color: #9cf9f5;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
@@ -78,7 +78,7 @@ header .container {
 }
 
 .not-connected h1 {
-  text-shadow: 2px 2px 0 var(--accent-color);
+  text-shadow: 0px 0px 0 var(--accent-color);
   font-style: normal;
   margin: 2rem 0;
   font-size: 3.5rem;
