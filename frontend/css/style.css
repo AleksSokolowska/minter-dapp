@@ -8,12 +8,12 @@
   --font-primary: "Titan One", sans-serif;
   --font-secondary: "Montserrat", sans-serif;
   --font-code: "Montserrat", sans-serif;
-  --bg-color: #f6e9ff
+  --bg-color: #ffffff
   ;
   --bg-color-transparent: #00163f80;
   --font-color: #613881;
-  --btn-bg-color: #fffacd;
-  --accent-color: #775b8d;
+  --btn-bg-color: #cdddff;
+  --accent-color: #613881;
   ;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
